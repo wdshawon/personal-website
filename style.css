@@ -54,6 +54,11 @@ h2{
     float: left;
     margin: 6.5%;
     border-radius: 10px ;
-   
-
+}
+.contact{
+    background-repeat: no-repeat;
+    background-image: url("shapes/Group_33094_1.png");
+    margin: auto;
+    background-size: cover;
+    width: 50%;
 }
